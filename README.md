@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Applied machine-learning for science
 
 💻 Material for a course on applied machine-learning for scientists taught at
@@ -57,3 +58,6 @@ All original work is licensed under [Creative Commons Attribution-NonCommercial-
 [ESL]: https://statweb.stanford.edu/~tibs/ElemStatLearn/
 [IML]: http://shop.oreilly.com/product/0636920030515.do
 [glouppe]: https://github.com/glouppe
+=======
+# advanced-comp-2017
+>>>>>>> 72af84e7cf919006b59a7b7c58a704ece22b4664
